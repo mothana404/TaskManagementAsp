@@ -1,0 +1,736 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Desktop\\Project1\\TaskManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BD305999-A865-4756-9E38-BB01C68F920E}|TaskManagementServer\\TaskManagementServer.csproj|c:\\users\\pc\\desktop\\project1\\taskmanagement\\taskmanagementserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD305999-A865-4756-9E38-BB01C68F920E}|TaskManagementServer\\TaskManagementServer.csproj|solutionrelative:taskmanagementserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD305999-A865-4756-9E38-BB01C68F920E}|TaskManagementServer\\TaskManagementServer.csproj|c:\\users\\pc\\desktop\\project1\\taskmanagement\\taskmanagementserver\\taskmanagementserver.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{BD305999-A865-4756-9E38-BB01C68F920E}|TaskManagementServer\\TaskManagementServer.csproj|solutionrelative:taskmanagementserver\\taskmanagementserver.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD305999-A865-4756-9E38-BB01C68F920E}|TaskManagementServer\\TaskManagementServer.csproj|c:\\users\\pc\\desktop\\project1\\taskmanagement\\taskmanagementserver\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD305999-A865-4756-9E38-BB01C68F920E}|TaskManagementServer\\TaskManagementServer.csproj|solutionrelative:taskmanagementserver\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD305999-A865-4756-9E38-BB01C68F920E}|TaskManagementServer\\TaskManagementServer.csproj|c:\\users\\pc\\desktop\\project1\\taskmanagement\\taskmanagementserver\\services\\teamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD305999-A865-4756-9E38-BB01C68F920E}|TaskManagementServer\\TaskManagementServer.csproj|solutionrelative:taskmanagementserver\\services\\teamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD305999-A865-4756-9E38-BB01C68F920E}|TaskManagementServer\\TaskManagementServer.csproj|c:\\users\\pc\\desktop\\project1\\taskmanagement\\taskmanagementserver\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD305999-A865-4756-9E38-BB01C68F920E}|TaskManagementServer\\TaskManagementServer.csproj|solutionrelative:taskmanagementserver\\controllers\\taskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD305999-A865-4756-9E38-BB01C68F920E}|TaskManagementServer\\TaskManagementServer.csproj|c:\\users\\pc\\desktop\\project1\\taskmanagement\\taskmanagementserver\\services\\enrollmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD305999-A865-4756-9E38-BB01C68F920E}|TaskManagementServer\\TaskManagementServer.csproj|solutionrelative:taskmanagementserver\\services\\enrollmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD305999-A865-4756-9E38-BB01C68F920E}|TaskManagementServer\\TaskManagementServer.csproj|c:\\users\\pc\\desktop\\project1\\taskmanagement\\taskmanagementserver\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD305999-A865-4756-9E38-BB01C68F920E}|TaskManagementServer\\TaskManagementServer.csproj|solutionrelative:taskmanagementserver\\services\\taskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD305999-A865-4756-9E38-BB01C68F920E}|TaskManagementServer\\TaskManagementServer.csproj|c:\\users\\pc\\desktop\\project1\\taskmanagement\\taskmanagementserver\\services\\iservice\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD305999-A865-4756-9E38-BB01C68F920E}|TaskManagementServer\\TaskManagementServer.csproj|solutionrelative:taskmanagementserver\\services\\iservice\\itaskservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD305999-A865-4756-9E38-BB01C68F920E}|TaskManagementServer\\TaskManagementServer.csproj|c:\\users\\pc\\desktop\\project1\\taskmanagement\\taskmanagementserver\\enums\\requeststatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD305999-A865-4756-9E38-BB01C68F920E}|TaskManagementServer\\TaskManagementServer.csproj|solutionrelative:taskmanagementserver\\enums\\requeststatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD305999-A865-4756-9E38-BB01C68F920E}|TaskManagementServer\\TaskManagementServer.csproj|c:\\users\\pc\\desktop\\project1\\taskmanagement\\taskmanagementserver\\enums\\taskitemstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD305999-A865-4756-9E38-BB01C68F920E}|TaskManagementServer\\TaskManagementServer.csproj|solutionrelative:taskmanagementserver\\enums\\taskitemstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD305999-A865-4756-9E38-BB01C68F920E}|TaskManagementServer\\TaskManagementServer.csproj|c:\\users\\pc\\desktop\\project1\\taskmanagement\\taskmanagementserver\\enums\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD305999-A865-4756-9E38-BB01C68F920E}|TaskManagementServer\\TaskManagementServer.csproj|solutionrelative:taskmanagementserver\\enums\\userroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD305999-A865-4756-9E38-BB01C68F920E}|TaskManagementServer\\TaskManagementServer.csproj|c:\\users\\pc\\desktop\\project1\\taskmanagement\\taskmanagementserver\\enums\\teamroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD305999-A865-4756-9E38-BB01C68F920E}|TaskManagementServer\\TaskManagementServer.csproj|solutionrelative:taskmanagementserver\\enums\\teamroles.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD305999-A865-4756-9E38-BB01C68F920E}|TaskManagementServer\\TaskManagementServer.csproj|c:\\users\\pc\\desktop\\project1\\taskmanagement\\taskmanagementserver\\controllers\\teamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD305999-A865-4756-9E38-BB01C68F920E}|TaskManagementServer\\TaskManagementServer.csproj|solutionrelative:taskmanagementserver\\controllers\\teamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD305999-A865-4756-9E38-BB01C68F920E}|TaskManagementServer\\TaskManagementServer.csproj|c:\\users\\pc\\desktop\\project1\\taskmanagement\\taskmanagementserver\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD305999-A865-4756-9E38-BB01C68F920E}|TaskManagementServer\\TaskManagementServer.csproj|solutionrelative:taskmanagementserver\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD305999-A865-4756-9E38-BB01C68F920E}|TaskManagementServer\\TaskManagementServer.csproj|c:\\users\\pc\\desktop\\project1\\taskmanagement\\taskmanagementserver\\extensions\\claimsprincipalextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD305999-A865-4756-9E38-BB01C68F920E}|TaskManagementServer\\TaskManagementServer.csproj|solutionrelative:taskmanagementserver\\extensions\\claimsprincipalextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD305999-A865-4756-9E38-BB01C68F920E}|TaskManagementServer\\TaskManagementServer.csproj|c:\\users\\pc\\desktop\\project1\\taskmanagement\\taskmanagementserver\\controllers\\enrollmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD305999-A865-4756-9E38-BB01C68F920E}|TaskManagementServer\\TaskManagementServer.csproj|solutionrelative:taskmanagementserver\\controllers\\enrollmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD305999-A865-4756-9E38-BB01C68F920E}|TaskManagementServer\\TaskManagementServer.csproj|c:\\users\\pc\\desktop\\project1\\taskmanagement\\taskmanagementserver\\services\\auth\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD305999-A865-4756-9E38-BB01C68F920E}|TaskManagementServer\\TaskManagementServer.csproj|solutionrelative:taskmanagementserver\\services\\auth\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD305999-A865-4756-9E38-BB01C68F920E}|TaskManagementServer\\TaskManagementServer.csproj|c:\\users\\pc\\desktop\\project1\\taskmanagement\\taskmanagementserver\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD305999-A865-4756-9E38-BB01C68F920E}|TaskManagementServer\\TaskManagementServer.csproj|solutionrelative:taskmanagementserver\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD305999-A865-4756-9E38-BB01C68F920E}|TaskManagementServer\\TaskManagementServer.csproj|c:\\users\\pc\\desktop\\project1\\taskmanagement\\taskmanagementserver\\services\\iservice\\ienrollmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD305999-A865-4756-9E38-BB01C68F920E}|TaskManagementServer\\TaskManagementServer.csproj|solutionrelative:taskmanagementserver\\services\\iservice\\ienrollmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD305999-A865-4756-9E38-BB01C68F920E}|TaskManagementServer\\TaskManagementServer.csproj|c:\\users\\pc\\desktop\\project1\\taskmanagement\\taskmanagementserver\\dtos\\alltasksitemsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD305999-A865-4756-9E38-BB01C68F920E}|TaskManagementServer\\TaskManagementServer.csproj|solutionrelative:taskmanagementserver\\dtos\\alltasksitemsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD305999-A865-4756-9E38-BB01C68F920E}|TaskManagementServer\\TaskManagementServer.csproj|c:\\users\\pc\\desktop\\project1\\taskmanagement\\taskmanagementserver\\dtos\\taskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD305999-A865-4756-9E38-BB01C68F920E}|TaskManagementServer\\TaskManagementServer.csproj|solutionrelative:taskmanagementserver\\dtos\\taskdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD305999-A865-4756-9E38-BB01C68F920E}|TaskManagementServer\\TaskManagementServer.csproj|c:\\users\\pc\\desktop\\project1\\taskmanagement\\taskmanagementserver\\dtos\\updateteamdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD305999-A865-4756-9E38-BB01C68F920E}|TaskManagementServer\\TaskManagementServer.csproj|solutionrelative:taskmanagementserver\\dtos\\updateteamdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD305999-A865-4756-9E38-BB01C68F920E}|TaskManagementServer\\TaskManagementServer.csproj|c:\\users\\pc\\desktop\\project1\\taskmanagement\\taskmanagementserver\\dtos\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD305999-A865-4756-9E38-BB01C68F920E}|TaskManagementServer\\TaskManagementServer.csproj|solutionrelative:taskmanagementserver\\dtos\\updateuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD305999-A865-4756-9E38-BB01C68F920E}|TaskManagementServer\\TaskManagementServer.csproj|c:\\users\\pc\\desktop\\project1\\taskmanagement\\taskmanagementserver\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD305999-A865-4756-9E38-BB01C68F920E}|TaskManagementServer\\TaskManagementServer.csproj|solutionrelative:taskmanagementserver\\dtos\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD305999-A865-4756-9E38-BB01C68F920E}|TaskManagementServer\\TaskManagementServer.csproj|c:\\users\\pc\\desktop\\project1\\taskmanagement\\taskmanagementserver\\dtos\\createteamdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD305999-A865-4756-9E38-BB01C68F920E}|TaskManagementServer\\TaskManagementServer.csproj|solutionrelative:taskmanagementserver\\dtos\\createteamdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD305999-A865-4756-9E38-BB01C68F920E}|TaskManagementServer\\TaskManagementServer.csproj|c:\\users\\pc\\desktop\\project1\\taskmanagement\\taskmanagementserver\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD305999-A865-4756-9E38-BB01C68F920E}|TaskManagementServer\\TaskManagementServer.csproj|solutionrelative:taskmanagementserver\\models\\taskitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD305999-A865-4756-9E38-BB01C68F920E}|TaskManagementServer\\TaskManagementServer.csproj|c:\\users\\pc\\desktop\\project1\\taskmanagement\\taskmanagementserver\\services\\iservice\\iteamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD305999-A865-4756-9E38-BB01C68F920E}|TaskManagementServer\\TaskManagementServer.csproj|solutionrelative:taskmanagementserver\\services\\iservice\\iteamservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD305999-A865-4756-9E38-BB01C68F920E}|TaskManagementServer\\TaskManagementServer.csproj|c:\\users\\pc\\desktop\\project1\\taskmanagement\\taskmanagementserver\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD305999-A865-4756-9E38-BB01C68F920E}|TaskManagementServer\\TaskManagementServer.csproj|solutionrelative:taskmanagementserver\\models\\team.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD305999-A865-4756-9E38-BB01C68F920E}|TaskManagementServer\\TaskManagementServer.csproj|c:\\users\\pc\\desktop\\project1\\taskmanagement\\taskmanagementserver\\models\\teamrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD305999-A865-4756-9E38-BB01C68F920E}|TaskManagementServer\\TaskManagementServer.csproj|solutionrelative:taskmanagementserver\\models\\teamrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD305999-A865-4756-9E38-BB01C68F920E}|TaskManagementServer\\TaskManagementServer.csproj|c:\\users\\pc\\desktop\\project1\\taskmanagement\\taskmanagementserver\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD305999-A865-4756-9E38-BB01C68F920E}|TaskManagementServer\\TaskManagementServer.csproj|solutionrelative:taskmanagementserver\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD305999-A865-4756-9E38-BB01C68F920E}|TaskManagementServer\\TaskManagementServer.csproj|c:\\users\\pc\\desktop\\project1\\taskmanagement\\taskmanagementserver\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD305999-A865-4756-9E38-BB01C68F920E}|TaskManagementServer\\TaskManagementServer.csproj|solutionrelative:taskmanagementserver\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD305999-A865-4756-9E38-BB01C68F920E}|TaskManagementServer\\TaskManagementServer.csproj|c:\\users\\pc\\desktop\\project1\\taskmanagement\\taskmanagementserver\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD305999-A865-4756-9E38-BB01C68F920E}|TaskManagementServer\\TaskManagementServer.csproj|solutionrelative:taskmanagementserver\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD305999-A865-4756-9E38-BB01C68F920E}|TaskManagementServer\\TaskManagementServer.csproj|c:\\users\\pc\\desktop\\project1\\taskmanagement\\taskmanagementserver\\dtos\\paginationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD305999-A865-4756-9E38-BB01C68F920E}|TaskManagementServer\\TaskManagementServer.csproj|solutionrelative:taskmanagementserver\\dtos\\paginationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD305999-A865-4756-9E38-BB01C68F920E}|TaskManagementServer\\TaskManagementServer.csproj|c:\\users\\pc\\desktop\\project1\\taskmanagement\\taskmanagementserver\\dtos\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD305999-A865-4756-9E38-BB01C68F920E}|TaskManagementServer\\TaskManagementServer.csproj|solutionrelative:taskmanagementserver\\dtos\\pagedresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD305999-A865-4756-9E38-BB01C68F920E}|TaskManagementServer\\TaskManagementServer.csproj|c:\\users\\pc\\desktop\\project1\\taskmanagement\\taskmanagementserver\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD305999-A865-4756-9E38-BB01C68F920E}|TaskManagementServer\\TaskManagementServer.csproj|solutionrelative:taskmanagementserver\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD305999-A865-4756-9E38-BB01C68F920E}|TaskManagementServer\\TaskManagementServer.csproj|c:\\users\\pc\\desktop\\project1\\taskmanagement\\taskmanagementserver\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD305999-A865-4756-9E38-BB01C68F920E}|TaskManagementServer\\TaskManagementServer.csproj|solutionrelative:taskmanagementserver\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD305999-A865-4756-9E38-BB01C68F920E}|TaskManagementServer\\TaskManagementServer.csproj|c:\\users\\pc\\desktop\\project1\\taskmanagement\\taskmanagementserver\\data\\config\\userroleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD305999-A865-4756-9E38-BB01C68F920E}|TaskManagementServer\\TaskManagementServer.csproj|solutionrelative:taskmanagementserver\\data\\config\\userroleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD305999-A865-4756-9E38-BB01C68F920E}|TaskManagementServer\\TaskManagementServer.csproj|c:\\users\\pc\\desktop\\project1\\taskmanagement\\taskmanagementserver\\data\\config\\userconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD305999-A865-4756-9E38-BB01C68F920E}|TaskManagementServer\\TaskManagementServer.csproj|solutionrelative:taskmanagementserver\\data\\config\\userconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD305999-A865-4756-9E38-BB01C68F920E}|TaskManagementServer\\TaskManagementServer.csproj|c:\\users\\pc\\desktop\\project1\\taskmanagement\\taskmanagementserver\\data\\config\\teamrequestconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD305999-A865-4756-9E38-BB01C68F920E}|TaskManagementServer\\TaskManagementServer.csproj|solutionrelative:taskmanagementserver\\data\\config\\teamrequestconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD305999-A865-4756-9E38-BB01C68F920E}|TaskManagementServer\\TaskManagementServer.csproj|c:\\users\\pc\\desktop\\project1\\taskmanagement\\taskmanagementserver\\data\\config\\taskitemconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD305999-A865-4756-9E38-BB01C68F920E}|TaskManagementServer\\TaskManagementServer.csproj|solutionrelative:taskmanagementserver\\data\\config\\taskitemconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD305999-A865-4756-9E38-BB01C68F920E}|TaskManagementServer\\TaskManagementServer.csproj|c:\\users\\pc\\desktop\\project1\\taskmanagement\\taskmanagementserver\\data\\config\\roleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD305999-A865-4756-9E38-BB01C68F920E}|TaskManagementServer\\TaskManagementServer.csproj|solutionrelative:taskmanagementserver\\data\\config\\roleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD305999-A865-4756-9E38-BB01C68F920E}|TaskManagementServer\\TaskManagementServer.csproj|c:\\users\\pc\\desktop\\project1\\taskmanagement\\taskmanagementserver\\data\\config\\enrollmentconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD305999-A865-4756-9E38-BB01C68F920E}|TaskManagementServer\\TaskManagementServer.csproj|solutionrelative:taskmanagementserver\\data\\config\\enrollmentconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD305999-A865-4756-9E38-BB01C68F920E}|TaskManagementServer\\TaskManagementServer.csproj|c:\\users\\pc\\desktop\\project1\\taskmanagement\\taskmanagementserver\\migrations\\20250425174207_addingteamrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD305999-A865-4756-9E38-BB01C68F920E}|TaskManagementServer\\TaskManagementServer.csproj|solutionrelative:taskmanagementserver\\migrations\\20250425174207_addingteamrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 180,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TaskManagementServer.http",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Project1\\TaskManagement\\TaskManagementServer\\TaskManagementServer.http",
+              "RelativeDocumentMoniker": "TaskManagementServer\\TaskManagementServer.http",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Project1\\TaskManagement\\TaskManagementServer\\TaskManagementServer.http",
+              "RelativeToolTip": "TaskManagementServer\\TaskManagementServer.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-04-26T16:15:35.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RequestStatus.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Project1\\TaskManagement\\TaskManagementServer\\Enums\\RequestStatus.cs",
+              "RelativeDocumentMoniker": "TaskManagementServer\\Enums\\RequestStatus.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Project1\\TaskManagement\\TaskManagementServer\\Enums\\RequestStatus.cs",
+              "RelativeToolTip": "TaskManagementServer\\Enums\\RequestStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T19:26:44.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ITaskService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Project1\\TaskManagement\\TaskManagementServer\\Services\\IService\\ITaskService.cs",
+              "RelativeDocumentMoniker": "TaskManagementServer\\Services\\IService\\ITaskService.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Project1\\TaskManagement\\TaskManagementServer\\Services\\IService\\ITaskService.cs",
+              "RelativeToolTip": "TaskManagementServer\\Services\\IService\\ITaskService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T19:08:54.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TaskService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Project1\\TaskManagement\\TaskManagementServer\\Services\\TaskService.cs",
+              "RelativeDocumentMoniker": "TaskManagementServer\\Services\\TaskService.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Project1\\TaskManagement\\TaskManagementServer\\Services\\TaskService.cs",
+              "RelativeToolTip": "TaskManagementServer\\Services\\TaskService.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAIwEIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T17:34:45.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EnrollmentService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Project1\\TaskManagement\\TaskManagementServer\\Services\\EnrollmentService.cs",
+              "RelativeDocumentMoniker": "TaskManagementServer\\Services\\EnrollmentService.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Project1\\TaskManagement\\TaskManagementServer\\Services\\EnrollmentService.cs",
+              "RelativeToolTip": "TaskManagementServer\\Services\\EnrollmentService.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAowDkAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T17:34:32.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TeamService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Project1\\TaskManagement\\TaskManagementServer\\Services\\TeamService.cs",
+              "RelativeDocumentMoniker": "TaskManagementServer\\Services\\TeamService.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Project1\\TaskManagement\\TaskManagementServer\\Services\\TeamService.cs",
+              "RelativeToolTip": "TaskManagementServer\\Services\\TeamService.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAowFQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T17:34:46.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Project1\\TaskManagement\\TaskManagementServer\\Program.cs",
+              "RelativeDocumentMoniker": "TaskManagementServer\\Program.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Project1\\TaskManagement\\TaskManagementServer\\Program.cs",
+              "RelativeToolTip": "TaskManagementServer\\Program.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAIAwwCYAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T17:28:53.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TaskItemStatus.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Project1\\TaskManagement\\TaskManagementServer\\Enums\\TaskItemStatus.cs",
+              "RelativeDocumentMoniker": "TaskManagementServer\\Enums\\TaskItemStatus.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Project1\\TaskManagement\\TaskManagementServer\\Enums\\TaskItemStatus.cs",
+              "RelativeToolTip": "TaskManagementServer\\Enums\\TaskItemStatus.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T19:26:45.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Project1\\TaskManagement\\TaskManagementServer\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "TaskManagementServer\\Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Project1\\TaskManagement\\TaskManagementServer\\Services\\UserService.cs",
+              "RelativeToolTip": "TaskManagementServer\\Services\\UserService.cs",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAiwGIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T18:12:03.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TaskController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Project1\\TaskManagement\\TaskManagementServer\\Controllers\\TaskController.cs",
+              "RelativeDocumentMoniker": "TaskManagementServer\\Controllers\\TaskController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Project1\\TaskManagement\\TaskManagementServer\\Controllers\\TaskController.cs",
+              "RelativeToolTip": "TaskManagementServer\\Controllers\\TaskController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAYwCQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T17:29:54.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserRoles.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Project1\\TaskManagement\\TaskManagementServer\\Enums\\UserRoles.cs",
+              "RelativeDocumentMoniker": "TaskManagementServer\\Enums\\UserRoles.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Project1\\TaskManagement\\TaskManagementServer\\Enums\\UserRoles.cs",
+              "RelativeToolTip": "TaskManagementServer\\Enums\\UserRoles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T19:26:47.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TeamRoles.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Project1\\TaskManagement\\TaskManagementServer\\Enums\\TeamRoles.cs",
+              "RelativeDocumentMoniker": "TaskManagementServer\\Enums\\TeamRoles.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Project1\\TaskManagement\\TaskManagementServer\\Enums\\TeamRoles.cs",
+              "RelativeToolTip": "TaskManagementServer\\Enums\\TeamRoles.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T19:26:46.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TeamController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Project1\\TaskManagement\\TaskManagementServer\\Controllers\\TeamController.cs",
+              "RelativeDocumentMoniker": "TaskManagementServer\\Controllers\\TeamController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Project1\\TaskManagement\\TaskManagementServer\\Controllers\\TeamController.cs",
+              "RelativeToolTip": "TaskManagementServer\\Controllers\\TeamController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAowBUAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T17:29:59.423Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Project1\\TaskManagement\\TaskManagementServer\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "TaskManagementServer\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Project1\\TaskManagement\\TaskManagementServer\\Controllers\\UserController.cs",
+              "RelativeToolTip": "TaskManagementServer\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T18:11:43.322Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ClaimsPrincipalExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Project1\\TaskManagement\\TaskManagementServer\\Extensions\\ClaimsPrincipalExtensions.cs",
+              "RelativeDocumentMoniker": "TaskManagementServer\\Extensions\\ClaimsPrincipalExtensions.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Project1\\TaskManagement\\TaskManagementServer\\Extensions\\ClaimsPrincipalExtensions.cs",
+              "RelativeToolTip": "TaskManagementServer\\Extensions\\ClaimsPrincipalExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T19:26:50.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EnrollmentController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Project1\\TaskManagement\\TaskManagementServer\\Controllers\\EnrollmentController.cs",
+              "RelativeDocumentMoniker": "TaskManagementServer\\Controllers\\EnrollmentController.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Project1\\TaskManagement\\TaskManagementServer\\Controllers\\EnrollmentController.cs",
+              "RelativeToolTip": "TaskManagementServer\\Controllers\\EnrollmentController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T17:29:53.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Project1\\TaskManagement\\TaskManagementServer\\Services\\Auth\\AuthService.cs",
+              "RelativeDocumentMoniker": "TaskManagementServer\\Services\\Auth\\AuthService.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Project1\\TaskManagement\\TaskManagementServer\\Services\\Auth\\AuthService.cs",
+              "RelativeToolTip": "TaskManagementServer\\Services\\Auth\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T15:58:22.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Project1\\TaskManagement\\TaskManagementServer\\Models\\User.cs",
+              "RelativeDocumentMoniker": "TaskManagementServer\\Models\\User.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Project1\\TaskManagement\\TaskManagementServer\\Models\\User.cs",
+              "RelativeToolTip": "TaskManagementServer\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T17:38:05.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IEnrollmentService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Project1\\TaskManagement\\TaskManagementServer\\Services\\IService\\IEnrollmentService.cs",
+              "RelativeDocumentMoniker": "TaskManagementServer\\Services\\IService\\IEnrollmentService.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Project1\\TaskManagement\\TaskManagementServer\\Services\\IService\\IEnrollmentService.cs",
+              "RelativeToolTip": "TaskManagementServer\\Services\\IService\\IEnrollmentService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T17:30:46.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AllTasksItemsDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Project1\\TaskManagement\\TaskManagementServer\\DTOs\\AllTasksItemsDto.cs",
+              "RelativeDocumentMoniker": "TaskManagementServer\\DTOs\\AllTasksItemsDto.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Project1\\TaskManagement\\TaskManagementServer\\DTOs\\AllTasksItemsDto.cs",
+              "RelativeToolTip": "TaskManagementServer\\DTOs\\AllTasksItemsDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T15:04:07.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UpdateTeamDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Project1\\TaskManagement\\TaskManagementServer\\DTOs\\UpdateTeamDto.cs",
+              "RelativeDocumentMoniker": "TaskManagementServer\\DTOs\\UpdateTeamDto.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Project1\\TaskManagement\\TaskManagementServer\\DTOs\\UpdateTeamDto.cs",
+              "RelativeToolTip": "TaskManagementServer\\DTOs\\UpdateTeamDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T19:26:38.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TaskDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Project1\\TaskManagement\\TaskManagementServer\\DTOs\\TaskDto.cs",
+              "RelativeDocumentMoniker": "TaskManagementServer\\DTOs\\TaskDto.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Project1\\TaskManagement\\TaskManagementServer\\DTOs\\TaskDto.cs",
+              "RelativeToolTip": "TaskManagementServer\\DTOs\\TaskDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T18:09:55.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UpdateUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Project1\\TaskManagement\\TaskManagementServer\\DTOs\\UpdateUserDto.cs",
+              "RelativeDocumentMoniker": "TaskManagementServer\\DTOs\\UpdateUserDto.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Project1\\TaskManagement\\TaskManagementServer\\DTOs\\UpdateUserDto.cs",
+              "RelativeToolTip": "TaskManagementServer\\DTOs\\UpdateUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T19:26:40.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Project1\\TaskManagement\\TaskManagementServer\\DTOs\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "TaskManagementServer\\DTOs\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Project1\\TaskManagement\\TaskManagementServer\\DTOs\\RegisterDto.cs",
+              "RelativeToolTip": "TaskManagementServer\\DTOs\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T19:26:23.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "CreateTeamDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Project1\\TaskManagement\\TaskManagementServer\\DTOs\\CreateTeamDto.cs",
+              "RelativeDocumentMoniker": "TaskManagementServer\\DTOs\\CreateTeamDto.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Project1\\TaskManagement\\TaskManagementServer\\DTOs\\CreateTeamDto.cs",
+              "RelativeToolTip": "TaskManagementServer\\DTOs\\CreateTeamDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T19:26:15.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ITeamService.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Project1\\TaskManagement\\TaskManagementServer\\Services\\IService\\ITeamService.cs",
+              "RelativeDocumentMoniker": "TaskManagementServer\\Services\\IService\\ITeamService.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Project1\\TaskManagement\\TaskManagementServer\\Services\\IService\\ITeamService.cs",
+              "RelativeToolTip": "TaskManagementServer\\Services\\IService\\ITeamService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T17:39:05.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TaskItem.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Project1\\TaskManagement\\TaskManagementServer\\Models\\TaskItem.cs",
+              "RelativeDocumentMoniker": "TaskManagementServer\\Models\\TaskItem.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Project1\\TaskManagement\\TaskManagementServer\\Models\\TaskItem.cs",
+              "RelativeToolTip": "TaskManagementServer\\Models\\TaskItem.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAsAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T19:13:20.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Team.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Project1\\TaskManagement\\TaskManagementServer\\Models\\Team.cs",
+              "RelativeDocumentMoniker": "TaskManagementServer\\Models\\Team.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Project1\\TaskManagement\\TaskManagementServer\\Models\\Team.cs",
+              "RelativeToolTip": "TaskManagementServer\\Models\\Team.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T17:37:54.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "TeamRequest.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Project1\\TaskManagement\\TaskManagementServer\\Models\\TeamRequest.cs",
+              "RelativeDocumentMoniker": "TaskManagementServer\\Models\\TeamRequest.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Project1\\TaskManagement\\TaskManagementServer\\Models\\TeamRequest.cs",
+              "RelativeToolTip": "TaskManagementServer\\Models\\TeamRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T19:27:02.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Project1\\TaskManagement\\TaskManagementServer\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "TaskManagementServer\\Models\\Role.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Project1\\TaskManagement\\TaskManagementServer\\Models\\Role.cs",
+              "RelativeToolTip": "TaskManagementServer\\Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T17:36:52.608Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Project1\\TaskManagement\\TaskManagementServer\\Models\\Enrollment.cs",
+              "RelativeDocumentMoniker": "TaskManagementServer\\Models\\Enrollment.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Project1\\TaskManagement\\TaskManagementServer\\Models\\Enrollment.cs",
+              "RelativeToolTip": "TaskManagementServer\\Models\\Enrollment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T17:36:53.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Project1\\TaskManagement\\TaskManagementServer\\DTOs\\UserDto.cs",
+              "RelativeDocumentMoniker": "TaskManagementServer\\DTOs\\UserDto.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Project1\\TaskManagement\\TaskManagementServer\\DTOs\\UserDto.cs",
+              "RelativeToolTip": "TaskManagementServer\\DTOs\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T19:26:40.595Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "PaginationDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Project1\\TaskManagement\\TaskManagementServer\\DTOs\\PaginationDto.cs",
+              "RelativeDocumentMoniker": "TaskManagementServer\\DTOs\\PaginationDto.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Project1\\TaskManagement\\TaskManagementServer\\DTOs\\PaginationDto.cs",
+              "RelativeToolTip": "TaskManagementServer\\DTOs\\PaginationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T19:26:22.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "PagedResult.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Project1\\TaskManagement\\TaskManagementServer\\DTOs\\PagedResult.cs",
+              "RelativeDocumentMoniker": "TaskManagementServer\\DTOs\\PagedResult.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Project1\\TaskManagement\\TaskManagementServer\\DTOs\\PagedResult.cs",
+              "RelativeToolTip": "TaskManagementServer\\DTOs\\PagedResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T19:26:21.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Project1\\TaskManagement\\TaskManagementServer\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "TaskManagementServer\\DTOs\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Project1\\TaskManagement\\TaskManagementServer\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "TaskManagementServer\\DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T19:26:16.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "UserRoleConfig.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Project1\\TaskManagement\\TaskManagementServer\\Data\\Config\\UserRoleConfig.cs",
+              "RelativeDocumentMoniker": "TaskManagementServer\\Data\\Config\\UserRoleConfig.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Project1\\TaskManagement\\TaskManagementServer\\Data\\Config\\UserRoleConfig.cs",
+              "RelativeToolTip": "TaskManagementServer\\Data\\Config\\UserRoleConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T19:26:09.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "UserConfig.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Project1\\TaskManagement\\TaskManagementServer\\Data\\Config\\UserConfig.cs",
+              "RelativeDocumentMoniker": "TaskManagementServer\\Data\\Config\\UserConfig.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Project1\\TaskManagement\\TaskManagementServer\\Data\\Config\\UserConfig.cs",
+              "RelativeToolTip": "TaskManagementServer\\Data\\Config\\UserConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T19:26:08.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "TaskItemConfig.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Project1\\TaskManagement\\TaskManagementServer\\Data\\Config\\TaskItemConfig.cs",
+              "RelativeDocumentMoniker": "TaskManagementServer\\Data\\Config\\TaskItemConfig.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Project1\\TaskManagement\\TaskManagementServer\\Data\\Config\\TaskItemConfig.cs",
+              "RelativeToolTip": "TaskManagementServer\\Data\\Config\\TaskItemConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T19:26:03.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "RoleConfig.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Project1\\TaskManagement\\TaskManagementServer\\Data\\Config\\RoleConfig.cs",
+              "RelativeDocumentMoniker": "TaskManagementServer\\Data\\Config\\RoleConfig.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Project1\\TaskManagement\\TaskManagementServer\\Data\\Config\\RoleConfig.cs",
+              "RelativeToolTip": "TaskManagementServer\\Data\\Config\\RoleConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T19:26:02.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "EnrollmentConfig.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Project1\\TaskManagement\\TaskManagementServer\\Data\\Config\\EnrollmentConfig.cs",
+              "RelativeDocumentMoniker": "TaskManagementServer\\Data\\Config\\EnrollmentConfig.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Project1\\TaskManagement\\TaskManagementServer\\Data\\Config\\EnrollmentConfig.cs",
+              "RelativeToolTip": "TaskManagementServer\\Data\\Config\\EnrollmentConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T19:25:59.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Project1\\TaskManagement\\TaskManagementServer\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "TaskManagementServer\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Project1\\TaskManagement\\TaskManagementServer\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "TaskManagementServer\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T17:40:32.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "TeamRequestConfig.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Project1\\TaskManagement\\TaskManagementServer\\Data\\Config\\TeamRequestConfig.cs",
+              "RelativeDocumentMoniker": "TaskManagementServer\\Data\\Config\\TeamRequestConfig.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Project1\\TaskManagement\\TaskManagementServer\\Data\\Config\\TeamRequestConfig.cs",
+              "RelativeToolTip": "TaskManagementServer\\Data\\Config\\TeamRequestConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T17:42:23.702Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "20250425174207_addingTeamRequest.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Desktop\\Project1\\TaskManagement\\TaskManagementServer\\Migrations\\20250425174207_addingTeamRequest.cs",
+              "RelativeDocumentMoniker": "TaskManagementServer\\Migrations\\20250425174207_addingTeamRequest.cs",
+              "ToolTip": "C:\\Users\\PC\\Desktop\\Project1\\TaskManagement\\TaskManagementServer\\Migrations\\20250425174207_addingTeamRequest.cs",
+              "RelativeToolTip": "TaskManagementServer\\Migrations\\20250425174207_addingTeamRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T17:42:08.107Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
